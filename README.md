@@ -31,9 +31,8 @@ Si la carga de datos finaliza con éxito, el paquete avanza por el camino verde,
 
 ## 💻 Tecnologías aplicadas
 * **Integration Services (SSIS)** - Diseño del flujo general y lógica ETL.
-* **Visual Studio (SSDT)**
+* **Visual Studio (SSDT)** - Entorno de desarrollo para la edición y depuración del proyecto ETL.
 * **SQL Server / OLE DB** - Almacenamiento y destino de los datos.
-* **C# (.NET)** - Implementado en los *Script Tasks* para la lógica de los mensajes emergentes.
 
 
 ---
